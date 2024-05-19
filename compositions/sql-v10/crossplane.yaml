@@ -4,7 +4,7 @@ metadata:
   name: dot-sql
   annotations:
     meta.crossplane.io/maintainer: Viktor Farcic (@vfarcic)
-    meta.crossplane.io/source: github.com/vfarcic/crossplane-tutorial
+    meta.crossplane.io/source: github.com/piyu37/crossplane-tutorial
     meta.crossplane.io/license: MIT
     meta.crossplane.io/description: Fully operational PostgreSQL databases in AWS, Google Cloud Platform, and Azure.
     meta.crossplane.io/readme: A Configuration package that defines a SQL and SQLClaim types that can be used to create and provision fully operational databases in AWS, Google Cloud Platform, and Azure.
